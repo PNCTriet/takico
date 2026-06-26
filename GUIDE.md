@@ -13,7 +13,7 @@ Sau khi tải, giải nén và **copy nguyên thư mục** (USB, Desktop, máy b
 | Nền tảng | Link tải |
 |----------|----------|
 | Windows | [Tải bản Windows](https://drive.google.com/uc?export=download&id=1r_ZOj8mbE80N7qAM9cg-Xv3frU9yH9Jd) |
-| macOS | [Tải bản macOS](https://drive.google.com/uc?export=download&id=1EJq0eqr13ymJ8i-cgnW4dbWKafdF-vQj) |
+| macOS | [Tải bản macOS](https://drive.google.com/uc?export=download&id=1QgbLuyRwwgI9SNQaSFsfl_D-tqL7zpw9) |
 
 ---
 

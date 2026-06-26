@@ -15,7 +15,7 @@ Mở link trên để xem giao diện tải bản Windows / macOS và hướng d
 | Nền tảng | Yêu cầu | Dung lượng | Link tải |
 |----------|---------|------------|----------|
 | **Windows** | Windows 10/11 (64-bit) | ~74 MB | [Tải bản Windows](https://drive.google.com/uc?export=download&id=1r_ZOj8mbE80N7qAM9cg-Xv3frU9yH9Jd) |
-| **macOS** | macOS 11+ | ~74 MB | [Tải bản macOS](https://drive.google.com/uc?export=download&id=1EJq0eqr13ymJ8i-cgnW4dbWKafdF-vQj) |
+| **macOS** | macOS 11+ | ~74 MB | [Tải bản macOS](https://drive.google.com/uc?export=download&id=1QgbLuyRwwgI9SNQaSFsfl_D-tqL7zpw9) |
 
 Mỗi bản gồm **3 chặng / game**. Sau khi tải, giải nén và **copy nguyên thư mục** (USB, Desktop, máy booth). Cần **webcam** và trình duyệt **Chrome** hoặc **Edge** (macOS còn hỗ trợ Safari).
 
